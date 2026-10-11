@@ -54,7 +54,7 @@ The project follows the full data science workflow: data collection, wrangling, 
 ```bash
 # Clone the repository
 git clone https://github.com/LahcenAmroune/Applied-Data-Science-Capstone.git
-cd <Applied-Data-Science-Capstone>
+cd Applied-Data-Science-Capstone
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn folium plotly dash requests beautifulsoup4 jupyterlab
